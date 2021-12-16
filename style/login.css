@@ -1,0 +1,58 @@
+body {
+    background-size: cover;
+    background-color: #f5f6fa;
+}
+
+
+
+/* navbar */
+.navbar-brand{
+    font-size: 25px;
+}
+
+.navbar{
+    height: 90px;
+}
+
+
+/* login */
+.card-title {
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+.card{
+    margin-top: 40px;
+    margin-left: 170px;
+    box-shadow: 2px 2px 12px rgb(201, 201, 201);
+}
+
+button{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.btn-outline-info {
+    background: white;
+    border-color: white;
+    border-radius: 22px;
+    margin-top: 50px;
+    margin-left: 190px;
+    width: 100px;
+}
+
+.btn-outline-dark {
+    border-radius: 22px;
+    margin-left: 87px;
+    width: 300px;
+}
+
+form {
+    margin-top: 30px;
+}
+
+.brand {
+    margin-left: 60px;
+    margin-top: 30px;
+}
